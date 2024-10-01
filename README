@@ -1,0 +1,4 @@
+For my website I wanted the Logo to be somewhere next to the name of the title which is why I used flex in order to justify the image to be pushed to the right in alingment to the title.
+I then had an area where I would put some reccomeneded talent being artists I find good, which I was able to add using cards giving the website a picture of them, names and occupation. It also glows when you highlight them.
+I then have an area where my website will take song/artist request that may be able to join song of the day, which the song is in an iframe bringing you to a youtube video of that song.
+To make requests theres a little submission buttons where users can enter in their queries.
